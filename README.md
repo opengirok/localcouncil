@@ -69,7 +69,7 @@ https://docs.google.com/spreadsheets/d/1re03CHtF4tvUt6YlWjdszDvItecEOG8uX_6SJiBW
 
 ## <원자료>
 2021.11 기초의원 겸직 정보공개청구_정보공개센터 청구자료
-/n https://drive.google.com/file/d/1_hJGidKHtyUKjwpcu4kxPpn8N3HIQUBt/view
+\n https://drive.google.com/file/d/1_hJGidKHtyUKjwpcu4kxPpn8N3HIQUBt/view
 
 2021.05 지방의원 겸직 정보공개청구_함께하는시민행동 청구자료
 https://drive.google.com/file/d/15DI6g33ZxjWnoRWG2dUN82GRG8qaGt8k/view
