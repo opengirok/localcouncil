@@ -6,7 +6,7 @@
 단 영리적 이용은 허락되지 않습니다.
 
 ## 프로젝트 기간
-2021/11/01 ~ 2021/12/17
+2021년 11월 1일 ~ 2021년 12월 17일
 
 ## 프로젝트의 목적
 - 각 지자체별로 흩어져 있는 7대(2018~2022) 기초의회의 데이터를 시민들과 함께 수집하고 정제해 '전국 기초의원 의정감시 데이터'를 구축합니다.
@@ -68,5 +68,8 @@ https://docs.google.com/spreadsheets/d/1re03CHtF4tvUt6YlWjdszDvItecEOG8uX_6SJiBW
 *직접 내용을 확인하며 1회의 검증작업을 거쳤음에도 오타나 오류가 있을 수 있습니다. 원자료를 함께 확인하고 사용해주세요.
 
 ## <원자료>
-2021.11 기초의원 겸직 정보공개청구_정보공개센터 청구자료 ☞ https://drive.google.com/file/d/1_hJGidKHtyUKjwpcu4kxPpn8N3HIQUBt/view
-2021.05 지방의원 겸직 정보공개청구_함께하는시민행동 청구자료 ☞ https://drive.google.com/file/d/15DI6g33ZxjWnoRWG2dUN82GRG8qaGt8k/view
+2021.11 기초의원 겸직 정보공개청구_정보공개센터 청구자료
+https://drive.google.com/file/d/1_hJGidKHtyUKjwpcu4kxPpn8N3HIQUBt/view
+
+2021.05 지방의원 겸직 정보공개청구_함께하는시민행동 청구자료
+https://drive.google.com/file/d/15DI6g33ZxjWnoRWG2dUN82GRG8qaGt8k/view
