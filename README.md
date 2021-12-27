@@ -80,3 +80,19 @@ https://docs.google.com/spreadsheets/d/1F8XP6qtAmelXZu7mcM_CVam9HuWNpL_KoceHDJTE
 오늘의정보공개청구 <기초의회 징계 잔혹사 2018~2020> 글 보기
 ☞ https://www.opengirok.or.kr/4872
 
+
+# 데이터 문의
+투명사회를 위한 정보공개센터
+cfoi@opengirok.or.kr
+02-2039-8361
+
+정보공개센터는 모든 사람들이 알 권리를 누리고, 투명하고 책임있는 사회를 만들기 위해 할동합니다.
+♥정보공개센터 후원하기 https://www.opengirok.or.kr/56
+
+
+# 데이터를 만든 사람들
+김범일	배문형	양승렬	이종호	정석완 	채민국
+김예찬	신훈민	오종관	이진재	정수연	최혁규
+김조은	써니	유성애	이희은	정진임	허성실
+류강윤	안근철	윤현종	임준연	정현환	
+박수영	안지섭	이정원	장윤석	조승현	
