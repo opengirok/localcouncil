@@ -69,3 +69,11 @@ https://docs.google.com/spreadsheets/d/1re03CHtF4tvUt6YlWjdszDvItecEOG8uX_6SJiBW
 2021.11 기초의원 겸직 정보공개청구_정보공개센터: https://drive.google.com/file/d/1_hJGidKHtyUKjwpcu4kxPpn8N3HIQUBt/view
 
 2021.05 지방의원 겸직 정보공개청구_함께하는시민행동: https://drive.google.com/file/d/15DI6g33ZxjWnoRWG2dUN82GRG8qaGt8k/view
+
+# 3. 전국 기초의원 징계 의결 내역 (2018.07~2021.06)
+
+https://docs.google.com/spreadsheets/d/1F8XP6qtAmelXZu7mcM_CVam9HuWNpL_KoceHDJTEkTc/edit?usp=sharing
+
+## ▶ 설명 및 주의사항
+<기초의원 징계의결 내역>은 2021년 2월 10일 정보공개센터가 발행한 <기초의회 징계 잔혹사 2018~2020> 글을 통해 공개된 바 있는 데이터를 2021년 6월 기준으로 업데이트 한 것입니다. 
+
