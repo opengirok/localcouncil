@@ -84,7 +84,7 @@ https://docs.google.com/spreadsheets/d/1F8XP6qtAmelXZu7mcM_CVam9HuWNpL_KoceHDJTE
 # [번외] 기초의원 재산내역 관보링크
 ☞ https://docs.google.com/spreadsheets/d/1erIwU5dMpOTxcjA0zVj-oiOIJ8Fgj3wo0vP6qFX7Ay8/edit#gid=841629588
 
-기초의원 재산내역 데이터셋도 만들 계획이었지만 전자관보를 가로파일로 게시하여 OCR이 불가능한 시도가 많아 기간내에 작업이 불가능했습니다. 대신 각 기초의회 의원들의 재산내역이 담긴 관보의 원자료 링크정보를 공유합니다. 
+기초의원 재산내역 데이터셋도 만들 계획이었지만 전자관보를 가로파일로 게시하여 OCR이 불가능한 시도가 많아 기간내에 작업을 할 수 없었습니다. 대신 각 기초의회 의원들의 재산내역이 담긴 관보의 원자료 링크정보를 공유합니다. 
 
 
 # 데이터 문의
