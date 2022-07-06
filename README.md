@@ -23,14 +23,12 @@
 2. 226개 기초의회 의원의 겸직신고 현황
 : 226개 기초의회에 대한 정보공개청구자료(21.11 기준)를 보고 스프레드시트에 입력
 3. 226개 기초의회의원 징계내역
-: 226개 기초의회에 대한 정보공개청구자료(21.10 기준) 입력, 관련 기사 검색해 비위내용 및 링크 입력
+: 226개 기초의회에 대한 정보공개청구자료(21.10 기준) 입력, 관련 기사 검색해 비위내용 및 링크 입력  
  
 
+# 1. 전국 기초의원 명단 및 상세이력
 
-
-# 1. 전국 기초의원 명단 및 상세이력 (2021.12.23)
-
-https://docs.google.com/spreadsheets/d/1Eq2x7xZCw_5ng2GdHDnpUIhhwbmOAKEl4abX09JLyuA/edit?usp=sharing
+[민선7기 기초의원 명단 및 상세이력 (2021.12.23 현재)](https://docs.google.com/spreadsheets/d/1Eq2x7xZCw_5ng2GdHDnpUIhhwbmOAKEl4abX09JLyuA/edit?usp=sharing)
 
 ## ▶ 설명 및 주의사항 
 <기초의회 및 의원현황>시트의 전국 226개 기초의회의 의원정보링크는 2021년 12월 수집한 것으로, 해당 홈페이지 변동시 오류가 생길 수 있습니다. 
@@ -44,9 +42,9 @@ https://docs.google.com/spreadsheets/d/1Eq2x7xZCw_5ng2GdHDnpUIhhwbmOAKEl4abX09JL
 수집기간은 2021년 11월 1일부터 2021년 12월 13일입니다. 
 
 
-# 2. 전국 기초의원 겸직현황 (2021.11)
+# 2. 전국 기초의원 겸직현황
 
-https://docs.google.com/spreadsheets/d/1re03CHtF4tvUt6YlWjdszDvItecEOG8uX_6SJiBWscg/edit?usp=sharing
+[민선 7기 기초의원 겸직현황 (2021.11 현재)](https://docs.google.com/spreadsheets/d/1re03CHtF4tvUt6YlWjdszDvItecEOG8uX_6SJiBWscg/edit?usp=sharing)
 
 ## ▶ 설명 및 주의사항
 <기초의회 및 의원현황>시트의 전국 226개 기초의회의 의원정보링크는 2021년 12월 수집한 것으로, 해당 홈페이지 변동시 오류가 생길 수 있습니다. 
@@ -66,37 +64,28 @@ https://docs.google.com/spreadsheets/d/1re03CHtF4tvUt6YlWjdszDvItecEOG8uX_6SJiBW
 *직접 내용을 확인하며 1회의 검증작업을 거쳤음에도 오타나 오류가 있을 수 있습니다. 원자료를 함께 확인하고 사용해주세요.
 
 ## [원자료]
-2021.11 기초의원 겸직 정보공개청구_정보공개센터: https://drive.google.com/file/d/1_hJGidKHtyUKjwpcu4kxPpn8N3HIQUBt/view
+[2021.11 기초의원 겸직 정보공개청구_정보공개센터](https://drive.google.com/file/d/1_hJGidKHtyUKjwpcu4kxPpn8N3HIQUBt/view)  
+[2021.05 지방의원 겸직 정보공개청구_함께하는시민행동](https://drive.google.com/file/d/15DI6g33ZxjWnoRWG2dUN82GRG8qaGt8k/view)
 
-2021.05 지방의원 겸직 정보공개청구_함께하는시민행동: https://drive.google.com/file/d/15DI6g33ZxjWnoRWG2dUN82GRG8qaGt8k/view
+# 3. 전국 기초의원 징계 의결 내역
 
-# 3. 전국 기초의원 징계 의결 내역 (2018.07~2021.06)
-
-https://docs.google.com/spreadsheets/d/1F8XP6qtAmelXZu7mcM_CVam9HuWNpL_KoceHDJTEkTc/edit?usp=sharing
+[민선7기 기초의원 징계의결내역 (2018.07~2021.06)](https://docs.google.com/spreadsheets/d/1F8XP6qtAmelXZu7mcM_CVam9HuWNpL_KoceHDJTEkTc/edit?usp=sharing)
 
 ## ▶ 설명 및 주의사항
 <기초의원 징계의결 내역>은 2021년 2월 10일 정보공개센터가 발행한 <기초의회 징계 잔혹사 2018~2020> 글을 통해 공개된 바 있는 데이터를 2021년 6월 기준으로 업데이트 한 것입니다. 
 
-오늘의정보공개청구 <기초의회 징계 잔혹사 2018~2020> 글 보기
-☞ https://www.opengirok.or.kr/4872
+[오늘의정보공개청구 <기초의회 징계 잔혹사 2018~2020> 글 보기](https://www.opengirok.or.kr/4872)
 
-
-# [번외] 기초의원 재산내역 관보링크
-https://docs.google.com/spreadsheets/d/1erIwU5dMpOTxcjA0zVj-oiOIJ8Fgj3wo0vP6qFX7Ay8/edit#gid=841629588
-
-기초의원 재산내역 데이터셋도 만들 계획이었지만 전자관보를 가로파일로 게시하여 OCR이 불가능한 자자체가 많아 기간내에 작업을 할 수 없었습니다. 대신 각 기초의회 의원들의 재산내역이 담긴 관보의 원자료 링크정보를 공유합니다. 
 
 
 # 데이터 문의
-투명사회를 위한 정보공개센터
-cfoi@opengirok.or.kr
-02-2039-8361
-
-*개별 데이터의 수정 및 제안 사항은 해당 부분에 댓글을 달아주시면 주기적으로 확인 후 업데이트할 예정입니다. 
-
-정보공개센터는 모든 사람들이 알 권리를 누리고, 투명하고 책임있는 사회를 만들기 위해 할동합니다.
-
-♥정보공개센터 후원하기 https://www.opengirok.or.kr/56
+투명사회를 위한 정보공개센터  
+cfoi@opengirok.or.kr  
+02-2039-8361  
+*개별 데이터의 수정 및 제안 사항은 해당 부분에 댓글을 달아주시면 주기적으로 확인 후 업데이트할 예정입니다.  
+  
+정보공개센터는 모든 사람들이 알 권리를 누리고, 투명하고 책임있는 사회를 만들기 위해 할동합니다.  
+[♥정보공개센터 후원하기](https://www.opengirok.or.kr/56)
 
 
 # 데이터를 만든 사람들
@@ -105,3 +94,9 @@ cfoi@opengirok.or.kr
 김조은	써니	유성애	이희은	정진임	허성실
 류강윤	안근철	윤현종	임준연	정현환	
 박수영	안지섭	이정원	장윤석	조승현	
+
+  
+---
+
+# [관련자료] 기초의원 재산내역
+https://github.com/opengirok/localcouncil_asset_disclosure
