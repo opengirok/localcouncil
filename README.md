@@ -98,5 +98,15 @@ cfoi@opengirok.or.kr
   
 ---
 
-# [관련자료] 기초의원 재산내역
-https://github.com/opengirok/localcouncil_asset_disclosure
+# 관련자료 
+
+## 기초의원 재산내역
+https://github.com/opengirok/localcouncil_asset_disclosure  
+
+## 제8회 동시지방선거(2022.06.01) 기초의원 당선인명부
+[제8회 동시지방선거(2022.06.01) 기초의원 당선인명부_선관위제출정보포함](https://docs.google.com/spreadsheets/d/10tbNmsoT3LM1PGQrQC3SyCXwR9O4lqzcaJxshbS0dag/edit?usp=sharing)  
+  
+* 정보공개센터는 명부 외에 공직에 선출된 당선인 2,987명에 한하여, 제8회 전국동시지방선거 당시 후보자가 선관위에 제출한 학력·재산내역·전과내역·체납내역·입후보내역·병역사항의 '후보자정보공개자료'를 신청을 통해 공개합니다. 정보가 필요한 경우 아래 시트를 통해 신청해 주세요.  
+▶https://forms.gle/vmJzpqHJhd5mToJdA  
+
+* 데이터를 만든 사람들: 김슬, 박조은, 김조은
