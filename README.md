@@ -37,7 +37,7 @@
 
 # 2. 전국 지방의원 겸직현황
 
-[민선 8기 지방의원(광역/기초) 겸직현황(2022.11)](https://docs.google.com/spreadsheets/d/1fK7j1oWDgyEK9yTkMZjj5TgZBbtBVZDdMgs1VqSR3yk/edit?usp=sharing)
+[민선 8기 지방의원(광역/기초) 겸직현황(2022.11) by스브스뉴스](https://docs.google.com/spreadsheets/d/1fK7j1oWDgyEK9yTkMZjj5TgZBbtBVZDdMgs1VqSR3yk/edit?usp=sharing)
 
 [민선 7기 기초의원 겸직현황 (2021.11 현재)](https://docs.google.com/spreadsheets/d/1re03CHtF4tvUt6YlWjdszDvItecEOG8uX_6SJiBWscg/edit?usp=sharing)
 
