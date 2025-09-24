@@ -52,7 +52,7 @@
 겸직신고서에 개별 의원이 정보를 기입하지 않은 경우, '누락'으로 표시하였습니다. 
 겸직현황 데이터는 수기로 작성된 겸직신고서류를 직접 타이핑하여 전자화한 것입니다.
 
-## [원자료]
+### [원자료]
 [2021.11 기초의원 겸직 정보공개청구_정보공개센터](https://drive.google.com/file/d/1_hJGidKHtyUKjwpcu4kxPpn8N3HIQUBt/view)  
 [2021.05 지방의원 겸직 정보공개청구_함께하는시민행동](https://drive.google.com/file/d/15DI6g33ZxjWnoRWG2dUN82GRG8qaGt8k/view)
 
