@@ -37,7 +37,7 @@
 
 # 2. 전국 지방의원 겸직현황
 
-[제8회 동시지방선거 전국 지방의원 데이터 업데이트 겸직현황 시트(2026.03.기준)] (https://docs.google.com/spreadsheets/d/1gnPkfyh5-a9khgJacM_W8Cj0HvPva7F0S6vOJP3pAZE/edit?usp=sharing)
+[제8회 동시지방선거 전국 지방의원 데이터 업데이트 겸직현황 시트(2026.03.기준)](https://docs.google.com/spreadsheets/d/1gnPkfyh5-a9khgJacM_W8Cj0HvPva7F0S6vOJP3pAZE/edit?usp=sharing)
 
 [민선 8기 지방의원(광역/기초) 겸직현황(2022.11) by스브스뉴스](https://docs.google.com/spreadsheets/d/1fK7j1oWDgyEK9yTkMZjj5TgZBbtBVZDdMgs1VqSR3yk/edit?usp=sharing)
 
@@ -52,9 +52,12 @@
 
 ### [원자료]
 [2026.02 지방의원 겸직 홈페이지 사전공개 (다찾겠다 꾀꼬리단 조사)](https://docs.google.com/spreadsheets/d/1gnPkfyh5-a9khgJacM_W8Cj0HvPva7F0S6vOJP3pAZE/edit?gid=1657541177#gid=1657541177)
+
 2022.11 스브스프리미엄 데이터창고 8대 기초의원 및 광역의원들의 겸직신고서 CSV
 : [9기 기초의원 겸직 신고 자료 (2022)](https://data.sbs.co.kr/?data_id=10000006), [9기 광역의원 겸직 신고 자료 (2022)](https://data.sbs.co.kr/?data_id=10000007) 
+
 [2021.11 기초의원 겸직 정보공개청구_정보공개센터](https://drive.google.com/file/d/1_hJGidKHtyUKjwpcu4kxPpn8N3HIQUBt/view)  
+
 [2021.05 지방의원 겸직 정보공개청구_함께하는시민행동](https://drive.google.com/file/d/15DI6g33ZxjWnoRWG2dUN82GRG8qaGt8k/view)
 
 
