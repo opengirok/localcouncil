@@ -53,8 +53,8 @@
 ### [원자료]
 [2026.02 지방의원 겸직 홈페이지 사전공개 (다찾겠다 꾀꼬리단 조사)](https://docs.google.com/spreadsheets/d/1gnPkfyh5-a9khgJacM_W8Cj0HvPva7F0S6vOJP3pAZE/edit?gid=1657541177#gid=1657541177)
 
-2022.11 스브스프리미엄 데이터창고 8대 기초의원 및 광역의원들의 겸직신고서 CSV
-: [9기 기초의원 겸직 신고 자료 (2022)](https://data.sbs.co.kr/?data_id=10000006), [9기 광역의원 겸직 신고 자료 (2022)](https://data.sbs.co.kr/?data_id=10000007) 
+2022.11 스브스프리미엄 데이터창고
+: [9기(8대지선) 기초의원 겸직 신고 자료 (2022)](https://data.sbs.co.kr/?data_id=10000006), [9기(8대지선) 광역의원 겸직 신고 자료 (2022)](https://data.sbs.co.kr/?data_id=10000007) 
 
 [2021.11 기초의원 겸직 정보공개청구_정보공개센터](https://drive.google.com/file/d/1_hJGidKHtyUKjwpcu4kxPpn8N3HIQUBt/view)  
 
@@ -105,7 +105,9 @@ cfoi@opengirok.or.kr
 ---
 # 관련글
 [엉망진창 홈페이지에 숨은 우리 동네 지방의원, 정공센과 시민들이 다~찾아냈습니다! (2026.04.16)](https://cfoi.or.kr/19321)
+
 [145건의 지방의원 징계…구체적인 내용을 공개합니다 (2026.06.02)](https://cfoi.or.kr/19609)
+
 ['의원님은 수주왕'(2026.07)](https://www.khan.co.kr/kh_storytelling/2026/contracts/)
 
 
