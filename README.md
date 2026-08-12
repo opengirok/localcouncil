@@ -62,7 +62,7 @@
 
 
 # 3. 전국 지방의원 징계 의결 내역
-[제8회 동시지방선거 전국 지방의원 데이터 업데이트 징계현황 시트(2026.03.기준)] (https://docs.google.com/spreadsheets/d/1gnPkfyh5-a9khgJacM_W8Cj0HvPva7F0S6vOJP3pAZE/edit?usp=sharing)
+[제8회 동시지방선거 전국 지방의원 데이터 업데이트 징계현황 시트(2026.03.기준)](https://docs.google.com/spreadsheets/d/1gnPkfyh5-a9khgJacM_W8Cj0HvPva7F0S6vOJP3pAZE/edit?usp=sharing)
 
 [민선7기 기초의원 징계의결내역 (2018.07~2021.06)](https://docs.google.com/spreadsheets/d/1F8XP6qtAmelXZu7mcM_CVam9HuWNpL_KoceHDJTEkTc/edit?usp=sharing)
 
