@@ -9,7 +9,7 @@
 
 ## 제8대 동시지방선거 전국 지방의원(광역/기초) 상세이력 데이터(2026.03기준)  
 
-[제8회 동시지방선거 전국 지방의원 데이터 업데이트(2026.03.기준)] (https://docs.google.com/spreadsheets/d/1gnPkfyh5-a9khgJacM_W8Cj0HvPva7F0S6vOJP3pAZE/edit?usp=sharing)
+[제8회 동시지방선거 전국 지방의원 데이터 업데이트(2026.03.기준)](https://docs.google.com/spreadsheets/d/1gnPkfyh5-a9khgJacM_W8Cj0HvPva7F0S6vOJP3pAZE/edit?usp=sharing)
 
 ### ▶ 설명 및 주의사항 
 선출직 공직자 정보를 공개하는 '오픈와치'의 2023년 8대 지방의원 데이터를 기반으로, 변동사항을 반영한 최신 정보를 수집했습니다
@@ -17,9 +17,9 @@
 수집기간은 2023년 1월 28일부터 2023년 3월 15일, 2023년 05월 19일(재보궐선거 당선자), 2026년 2월 26일부터 4월 2일입니다. 
 데이터에 대한 설명은 구글시트의 '일러두기'를 참고해주세요.
 
-이전버전: [제8대 동시지방선거 전국 지방의원(광역/기초) 상세이력 데이터(2023.05)] (https://docs.google.com/spreadsheets/d/1krybNHahmIu738z1PJHsKpHWbX8OWkWUstHfloNVQ2s/edit?usp=sharing)
+이전버전: [제8대 동시지방선거 전국 지방의원(광역/기초) 상세이력 데이터(2023.05)](https://docs.google.com/spreadsheets/d/1krybNHahmIu738z1PJHsKpHWbX8OWkWUstHfloNVQ2s/edit?usp=sharing)
 
-## 민선7기 전국 기초의원 명단 및 상세이력 (2021.12.23)
+## 제7대 동시지방선거 전국 기초의원 명단 및 상세이력 (2021.12.23)
 
 [민선7기 기초의원 명단 및 상세이력 (2021.12.23 현재)](https://docs.google.com/spreadsheets/d/1Eq2x7xZCw_5ng2GdHDnpUIhhwbmOAKEl4abX09JLyuA/edit?usp=sharing)
 
